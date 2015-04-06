@@ -1,0 +1,5 @@
+* Pretty Theme
+Pretty theme is a high-contrast, light, material-design-flat-ui-color based theme. It is designed to be soothing to look at while not destroying your eyes.
+
+** Tasks
+*** TODO Add more faces
